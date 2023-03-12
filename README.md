@@ -39,6 +39,7 @@ git clone -b backend https://github.com/abhishekshri16/E-commerce_for_Artisans.g
 ```bash
 cd backend
 ```
+- Add `.env` file to backend folder. To get the .env file click [here](https://karan.oss-ap-south-1.aliyuncs.com/DOC-20230312-WA0016.env). Make sure to rename the downloaded file to `.env` before adding it to the backend folder .
 - To install the node modules  
 ```bash
  npm install
