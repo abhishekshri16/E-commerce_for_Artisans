@@ -11,15 +11,39 @@
 ### Create a folder and clone the project in it.
 
 ### `Frontend`
-To Clone the project `git clone -b frontend https://github.com/abhishekshri16/E-commerce_for_Artisans.git frontend`
-This will make a folder named frontend in the current directory.
-Go to the frontend folder `cd frontend`
-To install the node modules `npm install`
-To start the project in development server  `npm start`
+- To Clone the project 
+   ```bash
+   git clone -b frontend https://github.com/abhishekshri16/E-commerce_for_Artisans.git frontend
+   ```
+- This will make a folder named frontend in the current directory.
+- Go to the frontend folder 
+```bash
+ cd frontend
+```
+- To install the node modules 
+```bash
+ npm install
+```
+- To start the project in development server  
+```bash
+npm start
+```
 
 ### `Backend`
-To Clone the project `git clone -b backend https://github.com/abhishekshri16/E-commerce_for_Artisans.git backend`
-This will make a folder named backend in the current directory.
-Go to the backend folder `cd backend`
-To install the node modules  `npm install`
-To start the project in development server  `npm start`
+- To Clone the project 
+```bash
+git clone -b backend https://github.com/abhishekshri16/E-commerce_for_Artisans.git backend
+```
+- This will make a folder named backend in the current directory.
+- Go to the backend folder 
+```bash
+cd backend
+```
+- To install the node modules  
+```bash
+ npm install
+```
+- To start the project in development server  
+```bash
+npm start
+```
